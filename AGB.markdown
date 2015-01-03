@@ -69,7 +69,7 @@ Alle Aufträge und Vereinbarungen sind nur dann rechtsverbindlich, wenn sie vom 
 
 5.4.	Der Auftraggeber ist nicht berechtigt, Zahlungen wegen nicht vollständiger Gesamtlieferung, Garantie- oder Gewährleistungsansprüchen oder Bemängelungen zurück zu halten.
 
-5.5.	Der Auftragnehmer ist berechtigt, A-Conto-Zahlungen in Höhe von bis zu 50% des Gesamtbetrages zu berechnen.
+5.5.	Der Auftragnehmer ist berechtigt, A-Conto-Zahlungen in Höhe von bis zu 50% des Gesamtbetrages zu berechnen.
 
 6\.	Urheberrecht und Nutzung
 ----------------------------
