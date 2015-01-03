@@ -3,7 +3,7 @@ Allgemeine Geschäftsbedingungen
 
 der Firma „Ing. Christoph Hochstrasser”  
 Kapuzinergasse 6  
-3340 Waidhofen an der Ybbs
+A-3340 Waidhofen an der Ybbs
 
 **Stand: 8. September 2014**
 
