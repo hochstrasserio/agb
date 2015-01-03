@@ -1,8 +1,6 @@
 # README
 
-Dieses Repository enthält aktuell die AGB von meiner Firma [hochstrasser.io](http://hochstrasser.io).
-
-In Zukunft werden hier auch meine anderen Vertragsmuster für NDA und Werksvertrag zu finden sein.
+Dieses Repository enthält die AGB von [hochstrasser.io](http://hochstrasser.io).
 
 Alle Dokumente sind Public Domain und können frei verwendet werden.
 
@@ -23,12 +21,12 @@ href="http://creativecommons.org/publicdomain/zero/1.0/">
 <br />
 To the extent possible under law,
 <a rel="dct:publisher"
-href="https://github.com/hochstrasserio/legal">
+href="https://github.com/hochstrasserio/agb">
 <span property="dct:title">Ing. Christoph Hochstrasser</span></a>
 has waived all copyright and related or neighboring rights to
-<span property="dct:title">hochstrasser.io Legal Documents</span>.
+<span property="dct:title">hochstrasser.io AGB</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
-content="AT" about="https://github.com/hochstrasserio/legal">
+content="AT" about="https://github.com/hochstrasserio/agb">
 Österreich</span>.
 </p>
